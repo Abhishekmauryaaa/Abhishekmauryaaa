@@ -1,55 +1,40 @@
+<h1 align="center">Hi 👋, I'm Abhishek maurya</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
-
-
-
-## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack .
-- 🌏 Looking to solve real-world problems.
-- 💻 I'm passionate about making creative websites.
-- ⚡ Fact: I love to be fit first.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Material Ui, Bootstrap, Node Js, Npm
-- 🙏 Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day.<br/>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
----
-
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE" alt="coding" width="500"  align=""/>
+<img src = "https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"  alt="coding" width="500"  align=""/>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmauryaaa&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmauryaaa" /> </p>
 
+<p align="left"> <a href="https://twitter.com/@abhishek_verma" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishek_verma?logo=twitter&style=for-the-badge" alt="@abhishek_verma" /></a> </p>
 
-<h4 align="">Visitor's count :eyes:</h4>
-<p align=""> <img src="https://komarev.com/ghpvc/?username=Danny12244&label=Profile%20views&color=0e75b6&style=flat" alt="Pradeep-PSY" /> </p>
+- 🔭 I’m currently working on **I’m currently Learning MERN Stack**
 
+- 🌱 I’m currently learning **Frontend Developer**
 
-
-
-
-- 👨‍ 💻 Checkout Portfolio : [pradeepy-portfolio.vercel.app](https://pradeepy-portfolio.vercel.app/)
-
+- 💬 Ask me about **Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Material Ui, Bootstrap, Node Js, Npm**
 
 - 📫 How to reach me **mauryaabhi3442@gmail.com**
 
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **I am not Funny**
+- ⚡ Fun fact **I am funny.....😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradeep-yadav-psy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-yadav-psy" height="30" width="40" /></a>
+<a href="https://twitter.com/@abhishek_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishek_verma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/mauryaabhi_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauryaabhi_04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradeep-PSY&show_icons=true&locale=en&layout=compact" alt="Pradeep-PSY" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Mauryaabhi..."> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mauryaabhi..." /></a><a href="https://ko-fi.com/MauryaAbhi...."> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MauryaAbhi...." /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pradeep-PSY&show_icons=true&locale=en" alt="Pradeep-PSY" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekmauryaaa&show_icons=true&locale=en&layout=compact" alt="abhishekmauryaaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-PSY&" alt="Pradeep" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmauryaaa&show_icons=true&locale=en" alt="abhishekmauryaaa" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmauryaaa&" alt="abhishekmauryaaa" /></p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
